@@ -9,6 +9,10 @@
     font-weight: 300;
     font-style: normal;
 }
+body{
+    min-height: 100vh;
+    background-image: repeating-linear-gradient(#424242,#999999,#d1d1d1);
+    }
 
 .color1{
     background: #34495e;
@@ -36,4 +40,8 @@ h1{
 }
 script{
     font-family: "mifuente";
+}
+img{
+    width: 25%;
+
 }
