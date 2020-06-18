@@ -35,9 +35,18 @@ h1{
     font-family: 'Questrial' sans-serif;
     text-shadow: 5px 5px 5px rgb(70, 70, 70);
     text-align: center;
-}h3{
+}
+h4{
+    text-align: center;
+
+}
+h3{
     text-align: center;
 }
 script{
     font-family: "mifuente";
+}
+img{
+    max-width: 100px;
+
 }
